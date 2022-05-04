@@ -1,0 +1,12 @@
+
+libcurl to download the html file
+https://curl.se/
+
+libtidy to convert to valid xml
+http://www.html-tidy.org/
+
+libxml to parse/navigate the xml
+http://www.xmlsoft.org/
+
+sudo apt-get update
+sudo apt-get install libcurl4-openssl-dev
