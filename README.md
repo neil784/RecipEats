@@ -1,10 +1,6 @@
-# final-project-3a1w
-final-project-3a1w created by GitHub Classroom
+# **RecipEats: A smarter way to plan your cooking!**
 
 ## Introduction
-
-**RecipEats: A smarter way to plan your cooking!**
-
 Have you ever had a bunch of ingredients laying around without a clue of what to cook?
 Well, let me introduce you to our project, RecipEats. Simply type in your ingredients
 and the program will generate a list of dishes you can cook with them. It also has other
